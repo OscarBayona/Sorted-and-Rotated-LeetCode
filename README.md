@@ -15,4 +15,4 @@ Esta pequeña aplicacion en terminal implementa la solución al problema de leet
 
 
 ## Links
-[Sorted-and-Rotated - LeetCode.pdf]()
+[Sorted-and-Rotated - LeetCodeTutorial](https://youtu.be/MHeAVBUEHos)
